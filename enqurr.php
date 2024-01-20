@@ -3,7 +3,7 @@
 // Set the database credentials
 $db_host = 'localhost';
 $db_user = 'id21500612_traintrac1';
-$db_password = 'BirdsBeBlue?010';
+$db_password = '******';
 $db_name = 'id21500612_traintrac';
 
 
